@@ -26,13 +26,11 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
 
 <h2>📌 Proyectos destacados: </h2>
 
-<Br>
-  
-# Mis Proyectos
+<a href="https://github.com/Lucas-Arteaga/Proyecto_Exploring-NYC-Public-School-Test-Result-Scores" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/NYC%20Public%20School%20Test%20Results-Data%20Analysis-blue" alt="Proyecto NYC Public School Test Results">
+</a>
 
-Aquí están algunos de mis proyectos:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)](https://github.com/Lucas-Arteaga/Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_netflix)](https://github.com/Lucas-Arteaga/Proyecto_netflix)
+<a href="https://github.com/Lucas-Arteaga/Proyecto_netflix" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Proyecto%20Netflix-Recomendador%20de%20Películas-red" alt="Proyecto Netflix">
+</a>
 
