@@ -28,6 +28,11 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
 
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_netflix)]([https://github.com/Aryagm/California_Housing_Prices](https://github.com/Lucas-Arteaga/Proyecto_netflix))
+# Mis Proyectos
+
+Aquí están algunos de mis proyectos:
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)](https://github.com/Lucas-Arteaga/Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_netflix)](https://github.com/Lucas-Arteaga/Proyecto_netflix)
 
