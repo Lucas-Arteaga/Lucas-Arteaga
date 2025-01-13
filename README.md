@@ -26,14 +26,10 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
 
 <h2>📌 Proyectos destacados: </h2>
 <em>
-1. [Análisis de SAT en NYC](https://github.com/tu-usuario/proyecto-sat)**  
-   Exploración de datos de escuelas públicas de Nueva York para identificar tendencias en puntajes SAT.
- <br>
- <br>
-2. [Predicción de Producción Petrolera](https://github.com/tu-usuario/prediccion-petrolera)**  
-   Aplicación de modelos de machine learning para predecir la declinación de pozos petroleros.
- <br>
- <br>
-3. [Optimización de Plantas de Gas](https://github.com/tu-usuario/optimizacion-gas)**  
-   Simulación de procesos industriales para reducir costos de producción y maximizar la eficiencia.
+<h1>Some of my Projects! 🎨</h1>
+<Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_netflix)]([https://github.com/Aryagm/California_Housing_Prices](https://github.com/Lucas-Arteaga/Proyecto_netflix))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)](https://github.com/Lucas-Arteaga/Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)
+
 </em>
