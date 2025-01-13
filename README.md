@@ -2,7 +2,7 @@
 
 <h3 align="center">Est. Ingeníeria en Petróleo| Operador | Gestión de Datos</h3>
 <p align="center">
-<a href="[https://www.linkedin.com/in/aksia/](https://www.linkedin.com/in/lucas-arteaga-4649b4174/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/lucas-arteaga-4649b4174/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: larteaga@fi.uba.ar"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
