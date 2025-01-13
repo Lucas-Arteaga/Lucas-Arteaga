@@ -19,4 +19,4 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
   <br>
 </p>
 <h2>Habilidades principales 🛠️</h2>
- <code> <img height="50" src="[https://github.com/uannabi/-/blob/master/resource/jp.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))"> </code>
+<img height="50" src="[https://github.com/uannabi/-/blob/master/resource/jp.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))">
