@@ -25,11 +25,9 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
 <code><img width="10%" src="https://www.svgrepo.com/show/369980/database-sql.svg"</code>
 
 <h2>📌 Proyectos destacados: </h2>
-<em>
-<h1>Some of my Projects! 🎨</h1>
+
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_netflix)]([https://github.com/Aryagm/California_Housing_Prices](https://github.com/Lucas-Arteaga/Proyecto_netflix))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Arteaga&repo=Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)](https://github.com/Lucas-Arteaga/Proyecto_Exploring-NYC-Public-School-Test-Result-Scores)
 
-</em>
