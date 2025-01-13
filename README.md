@@ -18,5 +18,22 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
   </em> 
   <br>
 </p>
-<h2>Habilidades principales 🛠️</h2>
-<img height="50" src="[https://github.com/uannabi/-/blob/master/resource/jp.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))">
+<h2> 🛠️ Habilidades principales </h2>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="15%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s"></code>
+<code><img width="10%" src="https://www.svgrepo.com/show/369980/database-sql.svg"</code>
+
+<h2>📌 Proyectos destacados: </h2>
+<em>
+1. [Análisis de SAT en NYC](https://github.com/tu-usuario/proyecto-sat)**  
+   Exploración de datos de escuelas públicas de Nueva York para identificar tendencias en puntajes SAT.
+ <br>
+ <br>
+2. [Predicción de Producción Petrolera](https://github.com/tu-usuario/prediccion-petrolera)**  
+   Aplicación de modelos de machine learning para predecir la declinación de pozos petroleros.
+ <br>
+ <br>
+3. [Optimización de Plantas de Gas](https://github.com/tu-usuario/optimizacion-gas)**  
+   Simulación de procesos industriales para reducir costos de producción y maximizar la eficiencia.
+</em>
