@@ -34,3 +34,6 @@ Siempre motivado por la idea de mejorar constantemente, busco desafios donde pue
   <img align="center" src="https://img.shields.io/badge/Proyecto%20Netflix-Recomendador%20de%20Películas-red" alt="Proyecto Netflix">
 </a>
 
+<a href="https://github.com/Lucas-Arteaga/Proyecto-Produccion-Pozos-Pretroleros-SOM" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Proyecto%20Produccion-Recomendador%20de%20Pozos-orange" alt="Produccion_Pozos_Petroleros">
+</a>
