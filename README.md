@@ -12,7 +12,7 @@
 
 Apasionado por el  análisis de datos y el desarrollo de soluciones innovadoras para la industria del petróleo y gas, con interés en la digitalización de procesos industriales y el uso de machine learning para optimizar resultados.
 
-Siempre motivado por la idea de mejorar constantemente, busco desafios donde pueda <b> aprender, crecer y destacar.</b>
+Siempre motivado por la idea de mejorar constantemente, buscando desafios donde pueda <b> aprender, crecer y destacar.</b>
 
 ¡Aprendiendo, soñando y esforzándome por un mejor futuro! 🚀
   </em> 
