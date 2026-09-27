@@ -6,7 +6,7 @@
 
 *I understand the economics behind every technical decision — and I optimize operating flows with data.*
 
-<a href="https://www.linkedin.com/in/lucas-arteaga-4649b4174/"><img src="https://img.shields.io/badge/LinkedIn-lucas--arteaga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/lucas-arteaga-/"><img src="https://img.shields.io/badge/LinkedIn-lucas--arteaga-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:larteaga@fi.uba.ar"><img src="https://img.shields.io/badge/larteaga@fi.uba.ar-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Buenos%20Aires-Argentina-3776AB?style=flat-square" alt="Buenos Aires, Argentina">
 <img src="https://img.shields.io/badge/open%20to%20relocate-Neuqu%C3%A9n-2ea44f?style=flat-square" alt="Open to relocate to Neuquén">
