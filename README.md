@@ -6,6 +6,7 @@
 
 *I understand the economics behind every technical decision — and I optimize operating flows with data.*
 
+<a href="https://lucas-arteaga.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-f5b544?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio site"></a>
 <a href="https://www.linkedin.com/in/lucas-arteaga-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:larteaga@fi.uba.ar"><img src="https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Buenos_Aires-Argentina-2ea44f?style=for-the-badge" alt="Buenos Aires, Argentina">
@@ -132,6 +133,7 @@ Four things I actually do, every time:
 ## 📬 Contact
 
 - **LinkedIn** — [lucas-arteaga-](https://www.linkedin.com/in/lucas-arteaga-/) (best for opportunities)
+- **Site** — [lucas-arteaga.github.io](https://lucas-arteaga.github.io/) — the same information, laid out properly
 - **Email** — [larteaga@fi.uba.ar](mailto:larteaga@fi.uba.ar)
 - **Based in** Buenos Aires · open to relocation to **Neuquén** (Vaca Muerta)
 - **Languages** — Spanish (native) · English (professional working proficiency)
@@ -193,6 +195,7 @@ Estudiante de quinto año de Ingeniería en Petróleo (UBA), trabajando a tiempo
 ## 📬 Contacto
 
 - **LinkedIn** — [lucas-arteaga-](https://www.linkedin.com/in/lucas-arteaga-/)
+- **Sitio** — [lucas-arteaga.github.io](https://lucas-arteaga.github.io/) — la misma información, mejor presentada
 - **Email** — [larteaga@fi.uba.ar](mailto:larteaga@fi.uba.ar)
 - **Base** Buenos Aires · con disponibilidad de relocalización a **Neuquén** (Vaca Muerta)
 - **Idiomas** — español (nativo) · inglés (competencia profesional)
