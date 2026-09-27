@@ -38,7 +38,7 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 
 | | |
 | :---: | :--- |
-| **146** | certified hours across petroleum data science, industrial software and technical communication |
+| **270** | certified hours across petroleum data science, industrial operations, industrial software and technical communication |
 | **174,815** | raw well-month records processed in the project awarded a **special mention** by Fundación Sadosky & Fundación YPF |
 | **125,018** | records surviving a documented cleaning policy (non-physical production removed, p99.5 outlier cap) |
 | **5** | regression models compared under 5-fold cross-validation, with a cost/benefit call, not just a leaderboard |
@@ -70,12 +70,32 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 <a id="work"></a>
 ## 📂 Selected work
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| 🔬 **[well-production-data-mining](https://github.com/Lucas-Arteaga/well-production-data-mining)** | CRISP-DM data mining over official Argentine per-well production data: business filters, percentile-based categorisation, Self-Organizing Map (20×20) plus KMeans over the SOM weights, and cluster profiling. | `Python` `pandas` `MiniSom` `scikit-learn` `Jupyter` |
-| 🏅 **GOR / RGP regression comparison** | Course project at Fundación Sadosky & Fundación YPF — **awarded a special mention**. Cleaned 174,815 well-month records down to 125,018 with a documented policy, log-transformed a heavily skewed target, and compared a linear baseline against decision trees and random forests under 5-fold cross-validation. Chose a 50-tree forest over a 100-tree one for near-identical accuracy at half the training cost. | `Python` `pandas` `scikit-learn` `Seaborn` |
+### 🏅 GOR / RGP regression comparison — special mention, Fundación Sadosky & Fundación YPF
 
-> 🔨 **In progress** — a reproducible production analytics pipeline over Argentina's **official open well-production dataset** (Secretaría de Energía, CC-BY-4.0): validated ingestion, data-quality reporting, basin and operator profiling, and GOR modelling. The data is public, so anyone can run it.
+The 2025 course project (48 h) that earned a **special mention**. I processed **174,815 well-month records** and kept **125,018** after applying a documented cleaning policy — 48,533 rows were non-physical (zero or negative production). The target was heavily skewed, so it was log-transformed before modelling. Five models were compared under 5-fold cross-validation: a linear baseline, decision trees at two depths, and random forests at two sizes.
+
+**The decision that mattered was not the leaderboard.** The 100-tree forest reached **R² 0.57**; the 50-tree forest reached **0.56** and trained in **half the time** — 266 s against 519 s. In an operating environment, that is what decides which model actually gets deployed.
+
+| | |
+| :--- | :--- |
+| **Scale** | 174,815 raw records → 125,018 after cleaning |
+| **Target** | GOR / RGP, log-transformed |
+| **Models** | linear regression · decision tree (depth 5 and 10) · random forest (50 and 100 trees) |
+| **Validation** | 5-fold cross-validation · MAE, RMSE, R² |
+| **Result** | best R² 0.57 · **deployed choice: 0.56 at half the training cost** |
+| **Limits disclosed** | one month per year (no decline curves) · no bottom-hole pressure · no petrophysics |
+
+> **Why there is no repository link here:** the dataset included operator production and drilling records, and it is not mine to publish. The public, reproducible version — rebuilt on Argentina's open well-production dataset (CC-BY-4.0) — is the project in progress below. *Not publishing another company's operational data is part of the job.*
+
+### 🔬 [well-production-data-mining](https://github.com/Lucas-Arteaga/well-production-data-mining)
+
+CRISP-DM data mining over official Argentine per-well production data: business filters, percentile-based categorisation, a 20×20 Self-Organizing Map with KMeans over the SOM weights, and cluster profiling with radar charts.
+
+`Python` · `pandas` · `MiniSom` · `scikit-learn` · `Jupyter`
+
+### 🔨 In progress — well-production-analytics
+
+A reproducible production analytics pipeline over Argentina's **official open well-production dataset** (Secretaría de Energía, **CC-BY-4.0**): validated ingestion of multi-year files, data-quality reporting, basin and operator profiling, and GOR modelling. Public data, so anyone can run it — and nothing confidential to hide behind.
 
 ---
 
@@ -84,13 +104,13 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 
 | Certification | Issuer | Year | Hours |
 | :--- | :--- | :---: | :---: |
-| **OpenWells, Data Analyzer & PROFILE** — code `NWS-2026-016` | Next Well Solutions / Halliburton Landmark | 2026 | 12 |
+| **Gas Plant Operator** — certificate 810/24 | Instituto Tecnológico de la Patagonia | 2024 | 96 |
 | **Data Science for Petroleum Engineers: first steps into AI** — *special mention* for *Comparison of regression models for GOR prediction* | Fundación Sadosky & Fundación YPF | 2025 | 48 |
-| **AI Automation, advanced level** | Coderhouse | 2026 | 20 |
+| **AI Automation career track** — 13 weeks; includes the AI Automation and advanced-level courses | Coderhouse | 2026 | 48 |
 | **Microsoft Excel, advanced level** — certificate 12321 | UTEPSA Postgrado | 2025 | 30 |
 | **SAP and Excel integration with script** — certificate 12405 | UTEPSA Postgrado | 2025 | 24 |
+| **OpenWells, Data Analyzer & PROFILE** — code `NWS-2026-016`, publicly verifiable | Next Well Solutions / Halliburton Landmark | 2026 | 12 |
 | **Public speaking and Storytelling** — Res. (D) 5849/24 | Universidad de Buenos Aires, Facultad de Derecho | 2024 | 12 |
-| **Gas Plant Operator** | Instituto Tecnológico de la Patagonia | — | — |
 
 ---
 
@@ -143,7 +163,7 @@ Estudiante de quinto año de Ingeniería en Petróleo (UBA), trabajando a tiempo
 
 ## 📈 Prueba, no adjetivos
 
-- **146 horas** certificadas entre ciencia de datos aplicada a petróleo, software industrial y comunicación técnica.
+- **270 horas** certificadas entre ciencia de datos aplicada a petróleo, operación industrial, software industrial y comunicación técnica.
 - **174.815** registros pozo-mes procesados en el trabajo que recibió **mención especial** de Fundación Sadosky & Fundación YPF.
 - **125.018** registros que sobrevivieron a una política de limpieza documentada (se descartó producción no física y se acotaron outliers en el percentil 99,5).
 - **5 modelos** de regresión comparados con validación cruzada de 5 folds, con decisión de costo-beneficio y no sólo un ranking.
@@ -152,13 +172,13 @@ Estudiante de quinto año de Ingeniería en Petróleo (UBA), trabajando a tiempo
 
 | Certificación | Emisor | Año | Horas |
 | :--- | :--- | :---: | :---: |
-| **OpenWells, Data Analyzer y PROFILE** — código `NWS-2026-016` | Next Well Solutions / Halliburton Landmark | 2026 | 12 |
+| **Operador de Plantas de Gas** — certificado 810/24 | Instituto Tecnológico de la Patagonia | 2024 | 96 |
 | **Fundamentos en Ciencias de Datos para Ingenieros en Petróleo: primeros pasos hacia la IA** — *mención especial* por *Comparación de modelos de regresión para la predicción de RGP* | Fundación Sadosky & Fundación YPF | 2025 | 48 |
-| **AI Automation, nivel avanzado** | Coderhouse | 2026 | 20 |
+| **Carrera de AI Automation** — 13 semanas; incluye los cursos de AI Automation y nivel avanzado | Coderhouse | 2026 | 48 |
 | **Microsoft Excel, nivel avanzado** — certificado 12321 | UTEPSA Postgrado | 2025 | 30 |
 | **Integración de SAP y Excel con script** — certificado 12405 | UTEPSA Postgrado | 2025 | 24 |
+| **OpenWells, Data Analyzer y PROFILE** — código `NWS-2026-016`, verificable públicamente | Next Well Solutions / Halliburton Landmark | 2026 | 12 |
 | **Oratoria e Introducción al Storytelling** — Res. (D) 5849/24 | Universidad de Buenos Aires, Facultad de Derecho | 2024 | 12 |
-| **Operador de Plantas de Gas** | Instituto Tecnológico de la Patagonia | — | — |
 
 ## 🧠 Cómo trabajo
 
