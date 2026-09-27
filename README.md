@@ -46,7 +46,7 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, current
 
 ### Selected work
 
-- **[Production data mining on Argentine hydrocarbon wells](https://github.com/Lucas-Arteaga/Proyecto-Produccion-Pozos-Pretroleros-SOM)** — CRISP-DM applied to official production data: well clustering, production profiling, predictive modelling in Python.
+- **[Production data mining on Argentine hydrocarbon wells](https://github.com/Lucas-Arteaga/well-production-data-mining)** — CRISP-DM applied to official production data: well clustering, production profiling, predictive modelling in Python.
 
 More coming: a production analytics pipeline over the official open well-production dataset (CC-BY-4.0).
 
@@ -81,7 +81,7 @@ Estudiante de quinto año de Ingeniería en Petróleo (UBA), trabajando en un fa
 
 ### Trabajo seleccionado
 
-- **[Minería de datos sobre producción de pozos de hidrocarburos en Argentina](https://github.com/Lucas-Arteaga/Proyecto-Produccion-Pozos-Pretroleros-SOM)** — CRISP-DM aplicado a datos oficiales de producción: clustering de pozos, perfilado de producción y modelado predictivo en Python.
+- **[Minería de datos sobre producción de pozos de hidrocarburos en Argentina](https://github.com/Lucas-Arteaga/well-production-data-mining)** — CRISP-DM aplicado a datos oficiales de producción: clustering de pozos, perfilado de producción y modelado predictivo en Python.
 
 En camino: un pipeline de analítica de producción sobre el dataset oficial abierto de producción por pozo (CC-BY-4.0).
 
