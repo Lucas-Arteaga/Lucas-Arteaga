@@ -11,12 +11,13 @@
 <img src="https://img.shields.io/badge/Buenos_Aires-Argentina-2ea44f?style=for-the-badge" alt="Buenos Aires, Argentina">
 <img src="https://img.shields.io/badge/Open_to_relocate-Neuqu%C3%A9n_Vaca_Muerta-1f6feb?style=for-the-badge" alt="Open to relocate to Neuquén">
 
-### 📌 [What I do](#-what-i-do) · [Proof](#-proof-not-adjectives) · [Work](#-selected-work) · [Certifications](#-certifications) · [How I work](#-how-i-work) · [Español](#español)
+### 📌 [What I do](#what-i-do) · [Proof](#proof) · [Work](#work) · [Certifications](#certifications) · [How I work](#how-i-work) · [Español](#español)
 
 </div>
 
 ---
 
+<a id="what-i-do"></a>
 ## 🛠️ What I do
 
 Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working full time at an API valve manufacturer that supplies upstream operators. I review engineering specifications for a living, I know what a specification deviation costs once it reaches the shop floor, and I automate the analysis around it.
@@ -32,6 +33,7 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 
 ---
 
+<a id="proof"></a>
 ## 📈 Proof, not adjectives
 
 | | |
@@ -65,6 +67,7 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 
 ---
 
+<a id="work"></a>
 ## 📂 Selected work
 
 | Project | What it is | Stack |
@@ -76,6 +79,7 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 
 ---
 
+<a id="certifications"></a>
 ## 🎓 Certifications
 
 | Certification | Issuer | Year | Hours |
@@ -90,6 +94,7 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, working
 
 ---
 
+<a id="how-i-work"></a>
 ## 🧠 How I work
 
 Four things I actually do, every time:
