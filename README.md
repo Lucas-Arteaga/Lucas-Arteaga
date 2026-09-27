@@ -38,11 +38,15 @@ Fifth-year Petroleum Engineering student at Universidad de Buenos Aires, current
 
 ### Certifications
 
-- **OpenWells, Data Analyzer & PROFILE** — Next Well Solutions / Halliburton Landmark, 2026 · verification code **`NWS-2026-016`**
-- **AI Automation (advanced)** — Coderhouse, 2026 · 7 weeks, 20 h of live and async training
-- **Data Science for Petroleum Engineering** — Fundación Sadosky & Fundación YPF · GOR prediction project awarded a **special mention**
-- **Oratoria e Introducción al Storytelling** — Universidad de Buenos Aires, Facultad de Derecho, 2024 · 12 h
+- **OpenWells, Data Analyzer & PROFILE** — Next Well Solutions / Halliburton Landmark, 2026 · 12 h · verification code **`NWS-2026-016`**
+- **Data Science for Petroleum Engineers: first steps into AI** — Fundación Sadosky & Fundación YPF, 2025 · 48 h · **special mention** for the work *Comparison of regression models for GOR prediction*
+- **AI Automation, advanced level** — Coderhouse, 2026 · 20 h
+- **Microsoft Excel, advanced level** — UTEPSA Postgrado, 2025 · 30 h
+- **SAP and Excel integration with script** — UTEPSA Postgrado, 2025 · 24 h
+- **Public speaking and Storytelling** — Universidad de Buenos Aires, Facultad de Derecho, 2024 · 12 h
 - **Gas Plant Operator** — Instituto Tecnológico de la Patagonia
+
+That is **146 certified hours** across petroleum data science, industrial software and technical communication.
 
 ### Selected work
 
@@ -73,11 +77,15 @@ Estudiante de quinto año de Ingeniería en Petróleo (UBA), trabajando en un fa
 
 ### Certificaciones
 
-- **OpenWells, Data Analyzer y PROFILE** — Next Well Solutions / Halliburton Landmark, 2026 · código de verificación **`NWS-2026-016`**
-- **AI Automation (avanzado)** — Coderhouse, 2026 · 7 semanas, 20 h de formación en vivo y asincrónica
-- **Data Science para Ingeniería en Petróleo** — Fundación Sadosky & Fundación YPF · proyecto de predicción de GOR con **mención especial**
+- **OpenWells, Data Analyzer y PROFILE** — Next Well Solutions / Halliburton Landmark, 2026 · 12 h · código de verificación **`NWS-2026-016`**
+- **Fundamentos en Ciencias de Datos para Ingenieros en Petróleo: primeros pasos hacia la IA** — Fundación Sadosky & Fundación YPF, 2025 · 48 h · **mención especial** por el trabajo *Comparación de modelos de regresión para la predicción de RGP*
+- **AI Automation, nivel avanzado** — Coderhouse, 2026 · 20 h
+- **Microsoft Excel, nivel avanzado** — UTEPSA Postgrado, 2025 · 30 h
+- **Integración de SAP y Excel con script** — UTEPSA Postgrado, 2025 · 24 h
 - **Oratoria e Introducción al Storytelling** — Universidad de Buenos Aires, Facultad de Derecho, 2024 · 12 h
 - **Operador de Plantas de Gas** — Instituto Tecnológico de la Patagonia
+
+Son **146 horas certificadas** entre ciencia de datos aplicada a petróleo, software industrial y comunicación técnica.
 
 ### Trabajo seleccionado
 
